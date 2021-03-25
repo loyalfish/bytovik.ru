@@ -1,0 +1,23 @@
+.nav_obj{
+    text-align: center;
+    text-decoration: none;
+}
+
+.nav_a_obj{
+    margin-right: 150px;
+}
+
+a{
+    transition: 500ms;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+a:hover{
+    transition: 500ms;
+    text-decoration: none;
+    color:  darkgrey;
+    cursor: pointer;
+}
